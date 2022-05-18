@@ -1,4 +1,6 @@
-<img"https://imgur.com/sQnilIh">
+<img class="fit-picture"
+     src="https://imgur.com/sQnilIh.png"
+     alt="Rampage">
 >--- Aperçu ----<
 Rampage est un trainer / une modification pour le mode histoire de Grand Theft Auto V
 
